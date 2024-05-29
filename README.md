@@ -7,5 +7,5 @@
 ## Demo
 
 <div id="header">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZmczdka210aHlmamZxNWxoeTR3eDhlaWliaHR0dXNqemhiMzRlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/87cjb9g1jO7SghPhm0/source.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5ycDRmbWY4bHc3d3pnZjd4Z2xzODBkYmc5ZDk1MW9rcXVmdzRucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9BE8WbflcdWuWKoSrB/giphy.gif" width="200"/>
 </div>
